@@ -4,7 +4,7 @@ export const CONFIG = {
     "collection_address": "0x5180db8f5c931aae63c74266b211f580155ecac8",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
-    "block_chain_id": "137",
+    "block_chain_id": "1",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
     "title": "NFT Koleksiyonum",
